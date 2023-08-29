@@ -1,5 +1,6 @@
 # Global-IT-Services-Analytics-Leadership-Dashboard
 
+![PowerBi Python SQL](https://github.com/AyushiAsthana18/Global-IT-Services-Analytics-Leadership-Dashboard/assets/63499899/196a1206-e731-40d3-889b-ce446e4d7d54)
 ## Tech-Stack:
 * Microsoft Power BI
 * Microsoft Power Automate
