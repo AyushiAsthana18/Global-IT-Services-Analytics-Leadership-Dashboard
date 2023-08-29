@@ -1,12 +1,12 @@
 # Global-IT-Services-Analytics-Leadership-Dashboard
 
-### Tech-Stack:
+## Tech-Stack:
 * Microsoft Power BI
 * Microsoft Power Automate
 * Python
 * SQL 
 
-### Datasets: 
+## Datasets: 
 * IT Collaboration Services Data
 * IT Service Desk Data (Call data, Chat data)
 * IT Incident & Survey Data
@@ -19,7 +19,9 @@
 * ServiceNow REST APIs
 * Chime REST APIs
 
-## Skills Used : M Language, DAX, 
+## Skills Used :
+* M Language
+* DAX
 
 **Key Roles/Responsibilities & Impact:**
     - Data Extraction from multiple sources like Azure HDInsight Hive DB, SQL DB, ServiceNow, Chime, SharePoint.
