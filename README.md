@@ -1,7 +1,6 @@
 # Global-IT-Services-Analytics-Leadership-Dashboard
 
-![PowerBi Python SQL](https://github.com/AyushiAsthana18/Global-IT-Services-Analytics-Leadership-Dashboard/assets/63499899/196a1206-e731-40d3-889b-ce446e4d7d54) + ![Power Automate](https://github.com/AyushiAsthana18/Global-IT-Services-Analytics-Leadership-Dashboard/assets/63499899/1b3419cc-9627-44bc-83cb-7e48b9405266)
-
+![PBI,Py, SQL, PA](https://github.com/AyushiAsthana18/Global-IT-Services-Analytics-Leadership-Dashboard/assets/63499899/e17425b9-671e-49ad-986c-006e7473fbf2)
 
 ## Tech-Stack:
 * Microsoft Power BI
