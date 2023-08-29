@@ -25,8 +25,8 @@
 * DAX calculations, Advanced data modeling, Custom visualizations, Query Editor and M Language, Parameters, Advanced visual interactions, Conditional formatting, Bookmarks and Drillthrough, Row-Level Security and Security Roles, API integration and custom development, DirectQuery and Live Connection, Performance optimization.
 
 ## Key Roles/Responsibilities & Impact:
-    - Data Extraction from multiple sources like Azure HDInsight Hive DB, SQL DB, ServiceNow, Chime, SharePoint.
-    - Data Mining using Application Programming Interfaces (APIs) [ServiceNow, Chime]
-    - Using data from a SQL database, created interactive Power Bi report that offers an excellent user experience for viewing more than 180 metrics for global collaboration services across the organization.
-    - Developed an interactive analytical report and dashboard for the global IT function to deliver actionable insights using latest dynamic data from ServiceNow through web APIs.
-    - Collaborated with cross functional teams like Data Architect team, windows operations, cloud operations team to ensure the data architecture & provisioning for big data Project.
+* Data Extraction from multiple sources like Azure HDInsight Hive DB, SQL DB, ServiceNow, Chime, SharePoint.
+* Data Mining using Application Programming Interfaces (APIs) [ServiceNow, Chime]
+* Using data from a SQL database, created interactive Power Bi report that offers an excellent user experience for viewing more than 180 metrics for global collaboration services across the organization.
+* Developed an interactive analytical report and dashboard for the global IT function to deliver actionable insights using latest dynamic data from ServiceNow through web APIs.
+* Collaborated with cross functional teams like Data Architect team, windows operations, cloud operations team to ensure the data architecture & provisioning for big data Project.
